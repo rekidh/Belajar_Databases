@@ -71,10 +71,7 @@
     | 4 | mail | ahmad | Perempuan | jalan joko nomor 80 | | 73.00 |
     +------------+-----------+--------------+--------------+----------------------------+---------+---------+
     ```
-
-````
 - Biasanya kita mengunagakan tipe data sesuai dengan kebutuhan
-
 
 **TYPE DATA YANG UMUM DI GUNAKAN DI MYSQL**
 
@@ -115,4 +112,3 @@
     | DECIMAL(3)  |-999    |999      |
     +------------+--------+-----------
     ```
-````
